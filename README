@@ -1,0 +1,25 @@
+I. 
+
+CS 230 (Data Structures & Algorithms) Final Project
+by Emily Ahn & Emery Otopalik
+
+II. File List
+  FullGame.java        Game implementation 
+  GameGraph.java        Our graph implementation
+  GamePanel.java        JPanel with interactive game
+  GamePanelGUI.java     Creates GUI. RUN THIS FILE
+  Graph.java            Graph Implementation (written by professor)
+  InfoPanel.java        JPanel with game instructions
+  OptionlsPanel.java    JPanel with options to select game board
+  PossibleMoves.java    Converts text file into LinkedList according to the gameboard
+  Scoreboard.txt        Names and scores of Triangle Board, used with ScoreboardPanel.java
+  ScoreboardPanel.java  JPanel with highest scores. Updated via text file
+  ScoreboardSquare.txt  Names and scores of Square Board, used with ScoreboardPanel.java
+  SquareBoard.txt       List of possibles moves for the Square Board, read in by Possiblemoves.java
+  TitlePanel.java       JPanel with title
+  TriangleBoard.txt     List of possibles moves for the Triangle Board, read in by Possiblemoves.java
+  labor-division.txt    Description of work divided between Emily and Emery
+  
+III. 
+
+To play, run GamePanelGUI.java
