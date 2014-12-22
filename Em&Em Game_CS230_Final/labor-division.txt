@@ -1,0 +1,25 @@
+Labor Division (The Em&Em Game; Phase 3)
+
+EMERY:
+- FullGame.java
+
+(visuals)
+- formatting board and images and button images
+- OptionsPanel.java 
+- GamePanel.java
+- formatting layout for ALL panels (with html in JLabels, box layout, etc.)
+- GamePanelGUI.java
+
+
+EMILY:
+- 2 text files (TriangleBoard.txt, SquareBoard.txt)
+- PossibleMoves.java
+- FullGame.java (helped with this)
+- javadoc-compliant documentation for all files
+
+(visuals)
+- TitlePanel.java
+- InfoPanel.java
+- OptionsPanel.java
+- ScoreboardPanel.java
+- GamePanel.java (helped with this)
